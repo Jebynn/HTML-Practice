@@ -20,6 +20,8 @@
 	<h2>二级标题</h2>
 	<p>这是一个段落</p>
 	<img class="red" src="1.jpg" width="200" height="200" />
-
+    <p>London is the capital city of England. It is the most populous
+    city in the United Kingdom, with a metropolitan area of over 13 million inhabitants. 
+    /<p>
 </body>
-	</html>
+</html>
