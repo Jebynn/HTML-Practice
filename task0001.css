@@ -1,1 +1,7 @@
-
+h1{color:blue;}
+h2{font-size: 14px;}
+p{font-size: 12;
+  background: black;
+  color:yellow;}
+.red{border-color:red;
+     border-width:2px;}
