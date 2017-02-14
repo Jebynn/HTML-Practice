@@ -13,15 +13,13 @@
 </head>
 <body>
     <H1>砂锅麻什</H1>
-	<p>
 	<ul>
 	    <li><a href="https://github.com/Jebynn/HTML-Practice/blob/master/IFE%202015%20task0001">task00001</a></li>
 	    <li><a href="http://weibo.com/u/2160824094/home?topnav=1&wvr=6">My blog</a></li>
 	</ul>
-	</p>
 	<h2>二级标题</h2>
 	<p>这是一个段落</p>
-	<p><img src="1.jpg" width="200" height="200" />
+	<img class="red" src="1.jpg" width="200" height="200" />
 
 </body>
 	</html>
